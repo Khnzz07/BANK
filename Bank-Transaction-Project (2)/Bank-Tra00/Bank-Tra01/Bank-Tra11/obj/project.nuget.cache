@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5PGvgqFQomz42cCr6VHwml1Pb39zecUffYRLHrJjMH1c8gIZqv/Q/FcncA5BEEtkEnSfsQlxgdJc7IWxPVSC+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nadee\\Downloads\\Bank-Transactions\\Bank-Transactions\\Bank-Transactions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nadee\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\nadee\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\nadee\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\nadee\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
